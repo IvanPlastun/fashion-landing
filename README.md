@@ -14,7 +14,7 @@ https://github.com/IvanPlastun/fashion-landing.git
 cd fashion-landing
 ```
 
-3. Устанавливаем все зависимости
+3. Запуск
 ```sh
 Запускаем файл index.html
 ```
